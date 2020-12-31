@@ -2,7 +2,7 @@
 
 ### 👨🏾‍💻 About me
 
-🎓 I have a bachelor's degree in computer engineering \
+🎓 I have a bachelor's degree in Computer Engineering \
 👣 For four years I was a Fullstack Developer, until descovery the amazing Javascript Ecosystem to Front End \
 🔥 For three years jQuery have paid my bills hahaha
 
