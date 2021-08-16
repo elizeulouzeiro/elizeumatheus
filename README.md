@@ -32,5 +32,5 @@
 
 <a href="https://www.linkedin.com/in/elizeulouzeiro/" target="blank"><img src="https://img.shields.io/badge/ElizeuLouzeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/elizeulouzeiro/" target="blank"><img src="https://img.shields.io/badge/ElizeuLouzeiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/elizeumatheus_" target="blank"><img src="https://img.shields.io/badge/ElizeuMatheus_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/elizeulouzeiro" target="blank"><img src="https://img.shields.io/badge/ElizeuLouzeiro_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://psnprofiles.com/mitozeu" target="blank"><img src="https://img.shields.io/badge/mitozeu-003791?style=for-the-badge&logo=playstation&logoColor=white" /></a>
